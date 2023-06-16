@@ -69,7 +69,7 @@ local Library = {
 	DisplayName = nil,
 	DragSpeed = 0.06,
 	LockDragging = false,
-	ToggleKey = Enum.KeyCode.Home,
+	ToggleKey = Enum.KeyCode.LeftControl,
 	UrlLabel = nil,
 	Url = nil
 
